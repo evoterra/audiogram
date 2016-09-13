@@ -16,14 +16,17 @@
     "captionRight": 1080
   },
   "Basic": {
+    "backgroundImage": "wide.jpg",
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
   },
   "Neon": {
+    "backgroundImage": "wide.jpg",
     "backgroundColor": "#556270",
     "foregroundColor": "#c7f464"
   },
   "Three colors": {
+    "backgroundImage": "wide.jpg",
     "backgroundColor": "#eee",
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
@@ -33,16 +36,18 @@
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
+    "backgroundImage": "wide.jpg",
     "foregroundColor": "#fc0",
     "waveBottom": 660,
     "waveTop": 320
   },
   "Bars": {
+    "backgroundImage": "wide.jpg",
     "pattern": "bars",
     "foregroundColor": "#d84a4a"
   },
   "Rounded bars with bottom left text": {
+    "backgroundImage": "wide.jpg",
     "pattern": "roundBars",
     "foregroundColor": "#d84a4a",
     "captionAlign": "left",
@@ -52,11 +57,13 @@
     "captionTop": null
   },
   "Bricks": {
+    "backgroundImage": "wide.jpg",
     "backgroundColor": "#8771aa",
     "foregroundColor": "#fff",
     "pattern": "bricks"
   },
   "Equalizer on the bottom": {
+    "backgroundImage": "wide.jpg",
     "backgroundColor": "#222",
     "foregroundColor": "#fff",
     "pattern": "equalizer",
@@ -66,6 +73,7 @@
     "waveBottom": 720
   },
   "Bold italic orange": {
+    "backgroundImage": "wide.jpg",
     "captionAlign": "right",
     "captionTop": null,
     "captionBottom": 660,
@@ -76,6 +84,7 @@
     "captionFont": "bold italic 52px 'Source Sans Pro'"
   },
   "Pixelated": {
+    "backgroundImage": "wide.jpg",
     "backgroundColor": "#ecd078",
     "foregroundColor": "#c02942",
     "pattern": "pixel"
@@ -90,6 +99,6 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+    "backgroundImage": "square.png"
   }
 }
