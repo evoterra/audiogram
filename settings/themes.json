@@ -15,17 +15,17 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
-  "Basic": {
+  "Basic BG": {
     "backgroundImage": "wide.jpg",
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
   },
-  "Neon": {
+  "Neon BG": {
     "backgroundImage": "wide.jpg",
     "backgroundColor": "#556270",
     "foregroundColor": "#c7f464"
   },
-  "Three colors": {
+  "Three colors BG": {
     "backgroundImage": "wide.jpg",
     "backgroundColor": "#eee",
     "captionColor": "#515151",
@@ -41,12 +41,12 @@
     "waveBottom": 660,
     "waveTop": 320
   },
-  "Bars": {
+  "Bars BG": {
     "backgroundImage": "wide.jpg",
     "pattern": "bars",
     "foregroundColor": "#d84a4a"
   },
-  "Rounded bars with bottom left text": {
+  "Rounded bars with bottom left text BG": {
     "backgroundImage": "wide.jpg",
     "pattern": "roundBars",
     "foregroundColor": "#d84a4a",
@@ -56,13 +56,13 @@
     "captionBottom": 660,
     "captionTop": null
   },
-  "Bricks": {
+  "Bricks BG": {
     "backgroundImage": "wide.jpg",
     "backgroundColor": "#8771aa",
     "foregroundColor": "#fff",
     "pattern": "bricks"
   },
-  "Equalizer on the bottom": {
+  "Equalizer on the bottom BG": {
     "backgroundImage": "wide.jpg",
     "backgroundColor": "#222",
     "foregroundColor": "#fff",
@@ -72,7 +72,7 @@
     "waveTop": 420,
     "waveBottom": 720
   },
-  "Bold italic orange": {
+  "Bold italic orange BG": {
     "backgroundImage": "wide.jpg",
     "captionAlign": "right",
     "captionTop": null,
@@ -83,7 +83,7 @@
     "waveColor": "#fff",
     "captionFont": "bold italic 52px 'Source Sans Pro'"
   },
-  "Pixelated": {
+  "Pixelated BG": {
     "backgroundImage": "wide.jpg",
     "backgroundColor": "#ecd078",
     "foregroundColor": "#c02942",
